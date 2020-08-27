@@ -10,7 +10,7 @@ This is my results from my first build at Lambda School, I chose to do my build 
 
 ![Bar Graph](https://raw.githubusercontent.com/HunterAshby/DS19-Unit-1-Build/master/Graphs/Bar%20Graph.png)
 
-This line graph is used to show the curve of the epidemic, by showing how many active cases are there currently as you can see Italy has gotten over thier curve, while others have flattend out, and the U.S is climbing rapidly
+This line graph is used to show the curve of the epidemic, by showing how many active cases are there currently as you can see Italy has gotten over their curve, while others have flattend out, and the U.S is climbing rapidly
 ![Line Graph](https://raw.githubusercontent.com/HunterAshby/DS19-Unit-1-Build/master/Graphs/Line%20Graph.png)
 
 The data really isn't that suprising, if you follow some sort of news you would know that the US is last place in public health in a lot of areas regarding Covid-19.
