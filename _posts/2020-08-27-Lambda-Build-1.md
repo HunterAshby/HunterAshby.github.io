@@ -55,7 +55,7 @@ def compare_countries_totals(countries, on='Confirmed', how='%'):
   fig.show()
   pd.set_option('mode.chained_assignment', 'warn')
 ~~~
-## Line Graph Code
+## Line Graph Code <br/>
 ~~~
 #Plotly graph maker
 def compare_countries(countries, on='New cases', how='%'):
