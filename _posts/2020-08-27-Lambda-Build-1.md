@@ -7,16 +7,18 @@ tags: [Covid-19, Datascience]
 ---
 
 This is my results from my first build at Lambda School, I chose to do my build on a Covid-19 Dataset, with my code a can generate many diffrent line and bar graphs of my choosing,
-Here are two that I liked
+Here are two that I liked.
 
 ![Bar Graph](https://raw.githubusercontent.com/HunterAshby/DS19-Unit-1-Build/master/Graphs/Bar%20Graph.png)
 ![Line Graph](https://raw.githubusercontent.com/HunterAshby/DS19-Unit-1-Build/master/Graphs/Line%20Graph.png)
 
-The data really isn't that suprising, if you follow some sort of news you would know that the US is last place in public health in a lot of areas regarding Covid-19
+The data really isn't that suprising, if you follow some sort of news you would know that the US is last place in public health in a lot of areas regarding Covid-19.
 However the build was pretty difficult for my first one, the hardest challenge I had was how to make it so the charts could be comparable to eachother instead of just a total 
-number of cases
+number of cases.
 Here is the code I used to generate the graphs
-##Bar Graph Code
+
+###Bar Graph Code
+
 ~~~
 def compare_countries_totals(countries, on='Confirmed', how='%'):
   #Will not plot 1 country, or World values
@@ -55,7 +57,9 @@ def compare_countries_totals(countries, on='Confirmed', how='%'):
   fig.show()
   pd.set_option('mode.chained_assignment', 'warn')
 ~~~
-##Line Graph Code
+
+###Line Graph Code
+
 ~~~
 #Plotly graph maker
 def compare_countries(countries, on='New cases', how='%'):
