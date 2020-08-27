@@ -146,3 +146,5 @@ def compare_countries(countries, on='New cases', how='%'):
   fig.show()
   pd.set_option('mode.chained_assignment', 'warn')
 ~~~
+Here is where I got the datasets to make these graphs
+[kaggle.com](https://www.kaggle.com/imdevskp/corona-virus-report)
