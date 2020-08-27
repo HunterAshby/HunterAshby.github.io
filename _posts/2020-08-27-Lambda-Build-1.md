@@ -16,9 +16,7 @@ The data really isn't that suprising, if you follow some sort of news you would 
 However the build was pretty difficult for my first one, the hardest challenge I had was how to make it so the charts could be comparable to eachother instead of just a total 
 number of cases.
 Here is the code I used to generate the graphs
-<br/>
 ## Bar Graph Code
-<br/>
 ~~~
 def compare_countries_totals(countries, on='Confirmed', how='%'):
   #Will not plot 1 country, or World values
@@ -57,9 +55,7 @@ def compare_countries_totals(countries, on='Confirmed', how='%'):
   fig.show()
   pd.set_option('mode.chained_assignment', 'warn')
 ~~~
-<br/>
 ## Line Graph Code
-<br/>
 ~~~
 #Plotly graph maker
 def compare_countries(countries, on='New cases', how='%'):
