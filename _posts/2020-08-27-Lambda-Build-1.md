@@ -17,7 +17,7 @@ However the build was pretty difficult for my first one, the hardest challenge I
 number of cases.
 Here is the code I used to generate the graphs
 
-###Bar Graph Code
+## Bar Graph Code
 
 ~~~
 def compare_countries_totals(countries, on='Confirmed', how='%'):
@@ -58,7 +58,7 @@ def compare_countries_totals(countries, on='Confirmed', how='%'):
   pd.set_option('mode.chained_assignment', 'warn')
 ~~~
 
-###Line Graph Code
+## Line Graph Code
 
 ~~~
 #Plotly graph maker
