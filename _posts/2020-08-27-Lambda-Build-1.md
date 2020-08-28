@@ -13,9 +13,7 @@ This is my results from my first build at Lambda School, I chose to do my build 
 This line graph is used to show the curve of the epidemic, by showing how many active cases are there currently as you can see Italy has gotten over their curve, while others have flattend out, and the U.S is climbing rapidly.
 ![Line Graph](https://raw.githubusercontent.com/HunterAshby/DS19-Unit-1-Build/master/Graphs/Line%20Graph.png)
 
-The data really isn't that suprising, if you follow some sort of news you would know that the US is last place in public health in a lot of areas regarding Covid-19.
-However the build was pretty difficult for my first one, the hardest challenge I had was how to make it so the charts could be comparable to eachother instead of just a total 
-number of cases.
+I wouldn't say the data is eye opening, just a confirmation of what other sites and people are saying about the US covid situation. We are not doing good in the US. the most notable graph is the line graph that show how many current active cases we have, you can see the curve Italy went over this year and their situation was not great. It is a little scary thinking about how that number of active cases can easily quadruple into 16 million people in 2-3 weeks, then quadruple again into 64 million people, and so on. Covid may not be a serious concern for a lot of people, however I have asmtha, if I get sick, I can die, so it's a little hard to hear all these people talking about my life being incomparable to the economy, like I'm not worth anything. That was a little bit of a tangent, but the point is out of first world countries, the US is last in a lot of places regarding how the government is handiling the covid epidemic
 
 Here is where I got the datasets to make these graphs
 [kaggle.com](https://www.kaggle.com/imdevskp/corona-virus-report)<br/>
