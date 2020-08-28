@@ -6,11 +6,11 @@ gh-repo: HunterAshby/DS19-Unit-1-Build
 tags: [Covid-19, Datascience]
 ---
 
-This is my results from my first build at Lambda School, I chose to do my build on a Covid-19 Dataset, with my code a can generate many diffrent line and bar graphs of my choosing, first I looked at Confirmed cases as a percent of population, so this bar graphs represents that, looking at it you can see that the U.S has have 1.2% of their total population has had covid, that is around 4 million people.
+This is my results from my first build at Lambda School, I chose to do my build on a Covid-19 Dataset with my question being, is the US doing as bad as every one is saying it is doing, and if so how bad is it. To start I had to figure out how to make the numbers comparable as number totals might look impressive, but don't mean much if two contries you are comparing have a widely diffrent population. So I wrote my code so that I can account for that and put my numbers as a percentage of the total population and then generated a couple of graphs, here are two that I think are really telling. Looking at it you can see that the U.S has have 1.2% of their total population has had covid, that is around 4 million people.
 
 ![Bar Graph](https://raw.githubusercontent.com/HunterAshby/DS19-Unit-1-Build/master/Graphs/Bar%20Graph.png)
 
-This line graph is used to show the curve of the epidemic, by showing how many active cases are there currently as you can see Italy has gotten over their curve, while others have flattend out, and the U.S is climbing rapidly
+This line graph is used to show the curve of the epidemic, by showing how many active cases are there currently as you can see Italy has gotten over their curve, while others have flattend out, and the U.S is climbing rapidly.
 ![Line Graph](https://raw.githubusercontent.com/HunterAshby/DS19-Unit-1-Build/master/Graphs/Line%20Graph.png)
 
 The data really isn't that suprising, if you follow some sort of news you would know that the US is last place in public health in a lot of areas regarding Covid-19.
